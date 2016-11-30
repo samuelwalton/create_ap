@@ -1,4 +1,5 @@
 ## Features
+* Revived/Revised version of OBLiQUE's create_ap. (Supports newer devices)
 * Create an AP (Access Point) at any channel.
 * Choose one of the following encryptions: WPA, WPA2, WPA/WPA2, Open (no encryption).
 * Hide your SSID.
@@ -28,7 +29,7 @@
 
 ## Installation
 ### Generic
-    git clone https://github.com/oblique/create_ap
+    git clone https://github.com/samuelwalton/create_ap
     cd create_ap
     make install
 
